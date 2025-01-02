@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    border: red solid;
+    justify-content: space-between;
+}
+
+.first {
+    border: brown solid;
+    height: 100px;
+}
+
+.second {
+    border: darkgreen solid;
+    height: 100px;
+
+}
+
+.third {
+    border: darkred solid;
+    height: 100px;
+
+}
+
+.forth {
+    border: blue solid;
+    height: 100px;
+}
+
+.footer {
+    background-color: gray;
+    border: black solid;
+    height: 50px;
+}
