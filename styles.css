@@ -2,28 +2,40 @@
     display: flex;
     border: red solid;
     justify-content: space-between;
+    color: aliceblue;
+    background-color: #054d50;
+}
+
+body {
+
 }
 
 .first {
     border: brown solid;
     height: 100px;
+    background-color: #054d50;
+    color: #9ae0ec;
 }
 
 .second {
+    display: flex;
     border: darkgreen solid;
     height: 100px;
+    justify-content: space-between;
 
 }
 
 .third {
     border: darkred solid;
     height: 100px;
+    background-color: #a8a8a8af;
 
 }
 
 .forth {
     border: blue solid;
     height: 100px;
+    
 }
 
 .footer {
